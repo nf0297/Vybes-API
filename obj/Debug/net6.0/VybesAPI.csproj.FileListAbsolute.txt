@@ -1,0 +1,198 @@
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\appsettings.json
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.exe
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.deps.json
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.runtimeconfig.json
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.pdb
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.csproj.AssemblyReference.cache
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.AssemblyInfoInputs.cache
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.AssemblyInfo.cs
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.csproj.CoreCompileInputs.cache
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\scopedcss\bundle\VybesAPI.styles.css
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.csproj.CopyComplete
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\refint\VybesAPI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.pdb
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.genruntimeconfig.cache
+D:\Vybes APP\Vybes.API\VybesAPI\obj\Debug\net6.0\ref\VybesAPI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Humanizer.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Npgsql.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Vybes APP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\appsettings.Development.json
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\appsettings.json
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.exe
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.deps.json
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.runtimeconfig.json
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\VybesAPI.pdb
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Humanizer.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Npgsql.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.csproj.AssemblyReference.cache
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.AssemblyInfoInputs.cache
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.AssemblyInfo.cs
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.csproj.CoreCompileInputs.cache
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\staticwebassets.build.json
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\staticwebassets.development.json
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\scopedcss\bundle\VybesAPI.styles.css
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.csproj.CopyComplete
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\refint\VybesAPI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.pdb
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\VybesAPI.genruntimeconfig.cache
+D:\VybesAPP\Vybes.API\VybesAPI\obj\Debug\net6.0\ref\VybesAPI.dll
+D:\VybesAPP\Vybes.API\VybesAPI\bin\Debug\net6.0\AutoMapper.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\appsettings.Development.json
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\appsettings.json
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\VybesAPI.exe
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\VybesAPI.deps.json
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\VybesAPI.runtimeconfig.json
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\VybesAPI.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\VybesAPI.pdb
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\AutoMapper.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Humanizer.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Versioning.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.Design.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Npgsql.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Npgsql.EntityFrameworkCore.PostgreSQL.Design.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Pemrograman\Vybes-App-API\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.csproj.AssemblyReference.cache
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.AssemblyInfoInputs.cache
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.AssemblyInfo.cs
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.csproj.CoreCompileInputs.cache
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\staticwebassets.build.json
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\staticwebassets.development.json
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\scopedcss\bundle\VybesAPI.styles.css
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.csproj.CopyComplete
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.dll
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\refint\VybesAPI.dll
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.pdb
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\VybesAPI.genruntimeconfig.cache
+D:\Pemrograman\Vybes-App-API\obj\Debug\net6.0\ref\VybesAPI.dll
