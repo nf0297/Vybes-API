@@ -26,7 +26,13 @@ After you got your Database inside Dbeaver, you need to do:
 ![image](https://user-images.githubusercontent.com/58716824/181036327-c30af11d-065a-4076-aa26-c1e60804a32d.png)
 2) Go to launchSettings.json > Change Db Config
 ![image](https://user-images.githubusercontent.com/58716824/181036636-6cc8d4ad-f63f-412e-9e19-ceeef920f9e8.png)
-3) Launch the API!
+3) Update your Dbeaver Db using Migration<br/>
+Read here to install it: https://docs.microsoft.com/en-us/ef/core/managing-schemas/migrations/?tabs=dotnet-core-cli
+4) Just use the "Update-Database" Command for Visual Studio Package Manager or
+5) use the "dotnet ef database update" for .NET Core CLI after installing them
+*Don't need to use quotation mark
+6) Check your Dbeaver and make sure the Table is created!
+7) Launch the API!
 ![image](https://user-images.githubusercontent.com/58716824/181036777-5c102c0a-937a-476c-b635-2c0df4a467aa.png)
 
 ## Using the API
